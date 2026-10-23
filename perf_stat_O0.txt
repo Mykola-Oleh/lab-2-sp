@@ -1,0 +1,14 @@
+
+ Performance counter stats for './program_O0':
+
+          10002.86 msec task-clock:u                                                          
+                 0      context-switches:u                                                    
+                 0      cpu-migrations:u                                                      
+              6578      page-faults:u                                                         
+
+      10.005140171 seconds time elapsed
+
+       9.995700000 seconds user
+       0.003999000 seconds sys
+
+

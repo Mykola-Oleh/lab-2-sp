@@ -1,0 +1,14 @@
+
+ Performance counter stats for './program_O2':
+
+            433.87 msec task-clock:u                                                          
+                 0      context-switches:u                                                    
+                 0      cpu-migrations:u                                                      
+              6576      page-faults:u                                                         
+
+       0.450934925 seconds time elapsed
+
+       0.418404000 seconds user
+       0.015939000 seconds sys
+
+
